@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mcsas.iml" filepath="$PROJECT_DIR$/Mcsas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/McsasApp/app.iml" filepath="$PROJECT_DIR$/McsasApp/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/McsasApp/McsasApp.iml" filepath="$PROJECT_DIR$/McsasApp/McsasApp.iml" />
     </modules>
   </component>
 </project>
